@@ -27,3 +27,4 @@ Altbalaji, Hoichoi, Voot and Zee 5. Could easily expand but don't have that much
 7. Hit Deploy
 8. Message `/start` to the bot which token you used
 9. Done!!
+7
